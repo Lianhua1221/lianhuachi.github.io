@@ -1,6 +1,5 @@
 name: Lianhua Chi
 markdown: kramdown
-permalink: /blog/:year/:month/:day/:title
 gems:
   - jekyll-sitemap
 github: [metadata]
@@ -10,4 +9,3 @@ kramdown:
 gems:
   - jekyll-coffeescript
   - jekyll-paginate
-theme: minima
